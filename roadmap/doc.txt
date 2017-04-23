@@ -1,0 +1,114 @@
+Joomla! hat gute Pläne für die Zukunft des Projekts. Im Folgenden ist eine verallgemeinerte Vorstellung an gewünschten Features für zukünftige Releases und eine Beleuchtung auf die laufenden Aktivitäten. Beim Schreiben dieser überarbeiteten Roadmap begannen wir zu bestimmen, was wir zu erreichen hoffen. 
+Zeitrahmen von Releases und semantische Versionen
+
+Jump to a Release
+Joomla! 3.x
+Joomla! 3.7
+Joomla! 3.8
+Joomla! 3.9
+((Joomla! 4))
+
+Mit der am 25. April 2014 veröffentlichten Entwicklungsstrategie ist eine der Hauptmerkmale die langfristige Stabilität und die Rückwärtskompatibilität, während auch ein semantischer Versions-Ansatz für Releases verfolgt wird. Der andere Aspekt der Zeitrahmen mit dem alten Release-Zyklus wurde zuvor als Problem identifiziert. Das ist verknüpft mit den Versionsnummern und Freigabedaten. Durch die Änderung der Releases zu einer standardisierten und semantischen Versionsnummerierung und gleichzeitiger Erhöhung der Anzahl der Releases werden wir in der Lage sein, den zeitlichen Druck auf die Entwickler zu bremsen, um Bugs und Verbesserungen in einem Release bereitzustellen. Idealerweise es unser Ziel, die Menge der in jedem Release enthaltenen Änderungen zu minimieren, dafür aber gleichzeitig die Anzahl der Veröffentlichung zu erhöhen.
+Wichtiger Hinweis: Diese Releases gelten als kleinere Releases und keiner von ihnen bricht die Rückwärtskompatibilität. Alle Features die die Rückwärtskompatibilität gefährden könnten, werden auf die nächste Hauptversion verschoben, derzeit ist das Joomla! 4.x.
+Bitte beachten Sie, dass alle Termine vorläufig sind und den Fokus für jede freigegebene Freigabe vorschlagen.
+
+Joomla!
+
+Teams
+
+Die Entwicklung des Joomla! CMS wird hauptsächlich von zwei Teams im Bereich Produktion.
+
+CMS Release Team
+Das Release Team ist verantwortlich für die Qualitätssicherungstests des CMS, sowie Planung, Koordination und Verteilung aller Releases. Die Release-Leitung für jede kleine Version übernimmt ein Mitglied dieses Teams und fungiert als primärer Entscheidungsträger, wenn es um die Veröffentlichung geht.
+CMS Wartungs Team
+The Maintenance Team is responsible for reviewing all proposed patches for the CMS, providing feedback on the proposed patch and making decisions regarding whether a patch is merged into the code base.
+Joomla! 3.x
+Joomla! 3.x is the currently supported major release series of the CMS.
+Development Status
+Current Release
+3.6.5
+Upcoming Release
+3.7.0
+Release Date of Series
+September 27, 2012
+End of Support for 3.x
+2 years once 3.9 is released
+A full explanation of supported releases can be found under the heading, 4.3 Supported releases on the Joomla! Development Strategy document.
+Proposed Features Under Review
+A list of open pull requests can be found on GitHub. Items which are not merged into the next minor release, currently Joomla! 3.7, will be evaluated for a future release.
+Joomla! 3.7
+Joomla! 3.7 is the next scheduled minor release of the 3.x series.
+Schedule
+Alpha 1
+20 December 2016
+Alpha 2
+18 January 2017
+Beta 1
+2 February 2017
+Beta 2
+8 February 2017
+Beta 3
+21 February 2017
+Beta 4
+31 March 2017
+RC 1
+6 April 2017
+RC 2
+12 April 2017
+RC 3
+18 April 2017
+RC 4
+19 April 2017
+Stable
+25 April 2017
+Note: The schedule for upcoming releases is subject to change depending on the availability of volunteers and circumstances beyond our control.
+Release Lead
+The release lead for Joomla! 3.7 is Robert Deutz.
+Main Features
+The following are the primary features introduced to Joomla! 3.7.
+Custom Fields
+Translator experience improvements
+Admin Menu Manager
+Accepted Features
+See the list of new features on GitHub.
+Pull Requests Requiring Documentation
+Some pull requests are merged before the documentation is written, a list of those pull requests can be found on GitHub. Each new feature should be documented on the documentation wiki by the developers involved to provide all information to users as well as helping 3rd party developers to integrate a feature to their extensions. Each page should have the following code inserted at the end: [[Category:Joomla! 3.7]]
+Joomla! 3.8
+The primary focus of Joomla! 3.8 will be the completion of the new routing system.
+Schedule
+Note: The schedule for this release has not yet been determined.
+Release Lead
+The release lead for Joomla! 3.8 is Michael Babker.
+Main Features
+The following are the primary features introduced to Joomla! 3.8.
+Modern Routing System
+Joomla! 4 compatibility layer
+In Development Features
+The following features are presently in development. If you would like to assist or contribute to them, please contact the release lead or release team for more information.
+Features in development
+Modern Routing System
+Modern Routing System Project on GitHub
+Proposed Features
+The following are suggested improvements which would be highly favored for this release. If you would like to assist or contribute to them, please contact the release lead or release team for more information.
+To be determined
+Accepted Features
+See the list of new features on GitHub.
+Pull Requests Requiring Documentation
+Some pull requests are merged before the documentation is written, a list of those pull requests can be found on GitHub. Each new feature should be documented on the documentation wiki by the developers involved to provide all information to users as well as helping 3rd party developers to integrate a feature to their extensions. Each page should have the following code inserted at the end: [[Category:Joomla! 3.8]]
+Joomla! 3.9
+In preparation for Joomla! 4.0, Joomla! 3.9 will primarily be a release containing backports of API changes from the 4.0 development branch to help ease the transition to the next major release for the community. It is planned for 3.9 and 4.0 to release simultaneously.
+Schedule
+Note: The schedule for this release has not yet been determined.
+Release Lead
+The release lead for Joomla! 3.9 is George Wilson.
+Main Features
+The following are the primary features introduced to Joomla! 3.9.
+Joomla! 4 compatibility layer
+Proposed Features
+The following are suggested improvements which would be highly favored for this release. If you would like to assist or contribute to them, please contact the release lead or release team for more information.
+To be determined
+Accepted Features
+See the list of new features on GitHub.
+Pull Requests Requiring Documentation
+Some pull requests are merged before the documentation is written, a list of those pull requests can be found on GitHub. Each new feature should be documented on the documentation wiki by the developers involved to provide all information to users as well as helping 3rd party developers to integrate a feature to their extensions. Each page should have the following code inserted at the end: [[Category:Joomla! 3.9]]
+
