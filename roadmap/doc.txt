@@ -16,26 +16,36 @@ Joomla!
 
 Teams
 
-Die Entwicklung des Joomla! CMS wird hauptsächlich von zwei Teams im Bereich Produktion.
+Die Entwicklung des Joomla! CMS wird hauptsächlich von zwei Teams im Bereich Produktion angeführt.
 
 CMS Release Team
 Das Release Team ist verantwortlich für die Qualitätssicherungstests des CMS, sowie Planung, Koordination und Verteilung aller Releases. Die Release-Leitung für jede kleine Version übernimmt ein Mitglied dieses Teams und fungiert als primärer Entscheidungsträger, wenn es um die Veröffentlichung geht.
+
 CMS Wartungs Team
-The Maintenance Team is responsible for reviewing all proposed patches for the CMS, providing feedback on the proposed patch and making decisions regarding whether a patch is merged into the code base.
+Das Wartungs-Team ist verantwortlich für die Überprüfung aller vorgeschlagenen Patches für das CMS, die Rückmeldungen der Tests des Patches und die Entscheidungen darüber, ob ein Patch in den Joomla! Code integriert wird.
+
 Joomla! 3.x
-Joomla! 3.x is the currently supported major release series of the CMS.
-Development Status
-Current Release
+Joomla! 3.x ist die aktuell unterstützte Haupt-Version des CMS.
+
+Entwicklungs-Status
+
+Aktuelle Release
 3.6.5
-Upcoming Release
+
+Nächstes Release
 3.7.0
-Release Date of Series
-September 27, 2012
-End of Support for 3.x
-2 years once 3.9 is released
-A full explanation of supported releases can be found under the heading, 4.3 Supported releases on the Joomla! Development Strategy document.
-Proposed Features Under Review
-A list of open pull requests can be found on GitHub. Items which are not merged into the next minor release, currently Joomla! 3.7, will be evaluated for a future release.
+
+Veröffentlichungs-Datum der Serie
+27. September 2012
+
+Support-Ende für 3.x
+2 Jahre sobald 3.9 veröffentlicht ist
+
+??? Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases auf dem Joomla! Entwicklungsstrategie Dokument ???
+
+Vorgeschlagene Funktionen unter Überprüfung
+Eine Liste der offenen Pull-Anfragen finden Sie auf GitHub. Beiträge, die nicht in die nächste kleine Version, derzeit Joomla! 3.7 einfließen, werden für eine zukünftige Version bearbeitet.
+
 Joomla! 3.7
 Joomla! 3.7 is the next scheduled minor release of the 3.x series.
 Schedule
