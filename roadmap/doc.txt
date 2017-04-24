@@ -44,14 +44,15 @@ Veröffentlichungs-Datum der Serie
 Support-Ende für 3.x
 2 Jahre sobald 3.9 veröffentlicht wurde
 
-Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases im Dokument der Joomla! Entwicklungsstrategie.
+Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases im Dokument der Joomla! Entwicklungsstrategie. (URL: https://developer.joomla.org/news/586-joomla-development-strategy.html#supported_releases)
 
 Vorgeschlagene Funktionen die sich in Überprüfung befinden
 Eine Liste der offenen Pull-Requests finden Sie auf GitHub. Beiträge, die nicht in die nächste Minor Version, derzeit Joomla! 3.7 einfließen, werden für eine zukünftige Version bearbeitet.
 
 Joomla! 3.7
 Joomla! 3.7 ist das nächste geplante Minor Release der Serie 3.x.
-Schedule
+
+Zeitplan
 Alpha 1
 20 December 2016
 Alpha 2
@@ -74,7 +75,8 @@ RC 4
 19 April 2017
 Stable
 25 April 2017
-Zu beachten: der Zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und von Umständen, auf die wir keinen Einfluss haben. 
+
+Zu beachten: der Zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und Umständen, auf die wir keinen Einfluss haben. 
 
 Leiter des Release
 Für Joomla! 3.7 leitet Robert Deutz die Freigabe.
@@ -86,7 +88,7 @@ Verbesserte Übersetzung
 Admin-Menü Manager
 
 Akzeptierte Features
-Eine Liste der finden Sie auf GitHub.
+Eine Liste der neuen Features finden Sie auf GitHub. (URL: https://github.com/joomla/joomla-cms/issues?q=label%3A%22New+Feature%22+milestone%3A%22Joomla+3.7.0%22+is%3Aclosed)
 Pull Requests, die eine Änderung an der Dokumentation nötig machen:
 Einige Pull Requests werde gemerged bevor die Dokumentation geschrieben ist, die Liste dieser Pull Reuests ist auf GitHub zu finden. Jedes neue Feature sollte auf den Dokumentations Wiki unter Einbezihung der Entwickler geschreiben werden. So sollen Anwender informiert werden und 3rd party Entwickler Information finden, um ein Feature in ihre Erweiterung einzubauen. Jede Seite sollte am Ende den Vermerk haben: [[Category:Joomla! 3.7]]
 
