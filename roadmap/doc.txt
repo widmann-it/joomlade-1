@@ -1,4 +1,4 @@
-Joomla! hat große Pläne für die Zukunft des Projekts. Im Folgenden zeigern wir eine allgemeine Vorstellung der Features, die in künftigen Versionen realisiert werden sollen und beleuchten kurz die Prozessaktivitäten. Beim Schreiben dieser überarbeiteten Roadmap begannen wir zu bestimmen, was wir zu erreichen hoffen. 
+Joomla! hat große Pläne für die Zukunft des Projekts. Im Folgenden zeigen wir eine allgemeine Vorstellung der Features, die in künftigen Versionen realisiert werden sollen und beleuchten kurz die Prozessaktivitäten. 
 
 Zeitrahmen von Releases und semantische Versionen
 
@@ -7,12 +7,14 @@ Joomla! 3.x
 Joomla! 3.7
 Joomla! 3.8
 Joomla! 3.9
-((Joomla! 4))
+Joomla! 4.0
 
 Mit der am 25. April 2014 veröffentlichten Entwicklungsstrategie ist eines der Hauptmerkmale die langfristige Stabilität und die Rückwärtskompatibilität. Gleichzeitig beginnen wir nun, einen semantischer Versions-Ansatz für Releases zu verfolgen. 
 Der Zeitrahmenansatz wurde wegen der alten Freigabezyklen als problematisch erkannt. Das ist eng verknüpft mit Versionsnummern und Freigabedaten. 
-Durch die Änderung der Releases zu einer standardisierten und semantischen Versionsnummerierung und gleichzeitiger Erhöhung der Anzahl der Releases werden wir in der Lage sein, den zeitlichen Druck auf die Entwickler abzumildern, Bugs und Verbesserungen in einem Release bereitzustellen. Idealerweise es unser Ziel, die Menge der in jedem Release enthaltenen Änderungen zu minimieren, dafür aber gleichzeitig die Anzahl der Releases zu erhöhen.
-Wichtiger Hinweis: Diese Releases gelten als Minor Releases und keines darf die Rückwärtskompatibilität brechen. Alle Features, die die Rückwärtskompatibilität gefährden könnten, werden auf die nächste Hauptversion verschoben, derzeit ist das Joomla! 4.x.
+Durch die Änderung der Releases zu einer standardisierten und semantischen Versionsnummerierung und gleichzeitiger Erhöhung der Anzahl der Releases werden wir in der Lage sein, den zeitlichen Druck auf die Entwickler abzumildern, Bugs und Verbesserungen in einem Release bereitzustellen. Idealerweise es unser Ziel die Menge der in jedem Release enthaltenen Änderungen zu minimieren, dafür aber gleichzeitig die Anzahl der Releases zu erhöhen.
+
+Wichtiger Hinweis: 
+Diese Releases gelten als Minor Releases die Rückwärtskompatibilität nicht behindern. Alle Features, die die Rückwärtskompatibilität gefährten könnten werden auf die nächste Hauptversion verschoben, derzeit ist das Joomla! 4.x
 Bitte beachten Sie, dass alle Termine vorläufig sind und der Fokus auf jedes Release Änderungen unterworfen sein kann.
 
 Joomla!
@@ -38,19 +40,21 @@ Aktuelle Release
 Nächstes Release
 3.7.0
 
-Veröffentlichungs-Datum der Serie
+Veröffentlichungs-Datum der Version 3.X Serie
 27. September 2012
 
 Support-Ende für 3.x
-2 Jahre sobald 3.9 veröffentlicht wurde
+2 Jahre sobald 3.9 veröffentlicht wurde 
 
-Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases im Dokument der Joomla! Entwicklungsstrategie. (URL: https://developer.joomla.org/news/586-joomla-development-strategy.html#supported_releases)
+Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 
+Unterstützte Releases im Dokument der Joomla! Entwicklungsstrategie. 
+(URL: https://developer.joomla.org/news/586-joomla-development-strategy.html#supported_releases)
 
 Vorgeschlagene Funktionen die sich in Überprüfung befinden
 Eine Liste der offenen Pull-Requests finden Sie auf GitHub. Beiträge, die nicht in die nächste Minor Version, derzeit Joomla! 3.7 einfließen, werden für eine zukünftige Version bearbeitet.
 
 Joomla! 3.7
-Joomla! 3.7 ist das nächste geplante Minor Release der Serie 3.x.
+Joomla! 3.7 ist das nächste geplante Minor Release der Serie 3.x
 
 Zeitplan
 Alpha 1
@@ -76,35 +80,39 @@ RC 4
 Stable
 25 April 2017
 
-Zu beachten: der Zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und Umständen, auf die wir keinen Einfluss haben. 
+Zu beachten: 
+Der Zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und Umständen auf die wir keinen Einfluss haben. 
 
 Leiter des Release
 Für Joomla! 3.7 leitet Robert Deutz die Freigabe.
 
 Die wichtigsten Features
-Folgende Features sind die wichtigsten Leistungsmerkmale, die in Joomla! 3.7 eingebracht werden:
-Eigene Felder
-Verbesserte Übersetzung
-Admin-Menü Manager
+Folgende Features sind die wichtigsten Leistungsmerkmale die in Joomla! 3.7 eingebracht werden:
+- Eigene Felder (Customer Fields)
+- Verbesserte Übersetzung 
+- Admin-Menü Manager
 
 Akzeptierte Features
-Eine Liste der neuen Features finden Sie auf GitHub. (URL: https://github.com/joomla/joomla-cms/issues?q=label%3A%22New+Feature%22+milestone%3A%22Joomla+3.7.0%22+is%3Aclosed)
+Eine Liste der neuen Features finden Sie auf GitHub. 
+(URL: https://github.com/joomla/joomla-cms/issues?q=label%3A%22New+Feature%22+milestone%3A%22Joomla+3.7.0%22+is%3Aclosed)
 Pull Requests, die eine Änderung an der Dokumentation nötig machen:
-Einige Pull Requests werde gemerged bevor die Dokumentation geschrieben ist, die Liste dieser Pull Reuests ist auf GitHub zu finden. Jedes neue Feature sollte auf den Dokumentations Wiki unter Einbezihung der Entwickler geschreiben werden. So sollen Anwender informiert werden und 3rd party Entwickler Information finden, um ein Feature in ihre Erweiterung einzubauen. Jede Seite sollte am Ende den Vermerk haben: [[Category:Joomla! 3.7]]
+Einige Pull Requests werde gemerged bevor die Dokumentation geschrieben ist, die Liste dieser Pull Reuests ist auf GitHub zu finden. Jedes neue Feature sollte auf den Dokumentations Wiki unter Einbezihung der Entwickler geschrieben werden. So sollen Anwender informiert werden und 3rd party Entwickler Information finden, um ein Feature in ihre Erweiterung einzubauen. Jede Seite sollte am Ende den Vermerk haben: [[Category:Joomla! 3.7]]
 
 Joomla! 3.8
 Das Hauptaugenmerk in Joomla! 3.8 wird de Vervollständigung des neuen Routing Systems sein.
 Zeitplan
-Hinweis: Der Zeitplan für die Freigabe ist noch nicht bekannt.
+Der Zeitplan für die Freigabe ist noch unbekannt. Wire nach der Veröfftlichung der neuen Stable 3.7.0 bekanntgeben
+
 Release Leitung
 Michael Babker leitet das Release von Joomla! 3.8.
+
 Haupt-Features
-Die folgenden Features sind die Hauptpunkte für Version 3.8
+Die folgenden Features sind die Hauptpunkte für Version 3.8.0
 Modernes Routing System
 Kompatibiltäts Layer für Joomla! 4.0
 In Entwicklung befindliche Features
 Folgende Featres sind derzeit in Entwicklung. Wer Lust hat, etwas beizutragen oder mitzuhelfen meldet sich beim Release Leiter oder beim Release Team um mehr Informationen zu bekommen.
-Features in Entweicklung
+Features in Entwicklung
 Modernes Routing System
 Modernes Routing SystemProject on GitHub
 Vorgesehen Features
