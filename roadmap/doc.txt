@@ -10,10 +10,10 @@ Joomla! 3.9
 ((Joomla! 4))
 
 Mit der am 25. April 2014 veröffentlichten Entwicklungsstrategie ist eines der Hauptmerkmale die langfristige Stabilität und die Rückwärtskompatibilität. Gleichzeitig beginnen wir nun, einen semantischer Versions-Ansatz für Releases zu verfolgen. 
-Der Zeitrahmenansatz wurde wegen der alten Freigabezyklen als problematisch erkannt. Das ist veng erknüpft mit Versionsnummern und Freigabedaten. 
+Der Zeitrahmenansatz wurde wegen der alten Freigabezyklen als problematisch erkannt. Das ist eng verknüpft mit Versionsnummern und Freigabedaten. 
 Durch die Änderung der Releases zu einer standardisierten und semantischen Versionsnummerierung und gleichzeitiger Erhöhung der Anzahl der Releases werden wir in der Lage sein, den zeitlichen Druck auf die Entwickler abzumildern, Bugs und Verbesserungen in einem Release bereitzustellen. Idealerweise es unser Ziel, die Menge der in jedem Release enthaltenen Änderungen zu minimieren, dafür aber gleichzeitig die Anzahl der Releases zu erhöhen.
 Wichtiger Hinweis: Diese Releases gelten als Minor Releases und keines darf die Rückwärtskompatibilität brechen. Alle Features, die die Rückwärtskompatibilität gefährden könnten, werden auf die nächste Hauptversion verschoben, derzeit ist das Joomla! 4.x.
-Bitte beachten Sie, dass alle Termine vorläufig sind und der Focus jedes Release Änderungen unterworfen sein kann.
+Bitte beachten Sie, dass alle Termine vorläufig sind und der Fokus auf jedes Release Änderungen unterworfen sein kann.
 
 Joomla!
 
@@ -42,11 +42,11 @@ Veröffentlichungs-Datum der Serie
 27. September 2012
 
 Support-Ende für 3.x
-2 Jahre sobald 3.9 veröffentlicht ist
+2 Jahre sobald 3.9 veröffentlicht wurde
 
-Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases auf dem Dokument Joomla! Entwicklungsstrategie.
+Eine vollständige Erläuterung der unterstützten Releases finden Sie unter dem Titel, 4.3 Unterstützte Releases im Dokument der Joomla! Entwicklungsstrategie.
 
-Vorgeschlagene Funktionen unter Überprüfung
+Vorgeschlagene Funktionen die sich in Überprüfung befinden
 Eine Liste der offenen Pull-Requests finden Sie auf GitHub. Beiträge, die nicht in die nächste Minor Version, derzeit Joomla! 3.7 einfließen, werden für eine zukünftige Version bearbeitet.
 
 Joomla! 3.7
@@ -74,19 +74,19 @@ RC 4
 19 April 2017
 Stable
 25 April 2017
-Zu beachten: der zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und von Umständen, auf die wir keinen Einfluss haben. 
+Zu beachten: der Zeitplan für die kommenden Releases kann sich ändern, je nach Verfügbarkeit von Freiwilligen und von Umständen, auf die wir keinen Einfluss haben. 
 
 Leiter des Release
 Für Joomla! 3.7 leitet Robert Deutz die Freigabe.
 
 Die wichtigsten Features
-Folgende Features sind die wichtigsten Leistugsmerkmale, die in Joomla! 3.7 eingeführt werden:
+Folgende Features sind die wichtigsten Leistungsmerkmale, die in Joomla! 3.7 eingebracht werden:
 Eigene Felder
 Verbesserte Übersetzung
-Admin Menu Manager
+Admin-Menü Manager
 
 Akzeptierte Features
-See the list of new features on GitHub.
+Eine Liste der finden Sie auf GitHub.
 Pull Requests, die eine Änderung an der Dokumentation nötig machen:
 Einige Pull Requests werde gemerged bevor die Dokumentation geschrieben ist, die Liste dieser Pull Reuests ist auf GitHub zu finden. Jedes neue Feature sollte auf den Dokumentations Wiki unter Einbezihung der Entwickler geschreiben werden. So sollen Anwender informiert werden und 3rd party Entwickler Information finden, um ein Feature in ihre Erweiterung einzubauen. Jede Seite sollte am Ende den Vermerk haben: [[Category:Joomla! 3.7]]
 
